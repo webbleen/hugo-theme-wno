@@ -1,1 +1,7 @@
-# hugo-wno
+# Theme Name
+
+## Features
+
+## Installation
+
+## Configuration
